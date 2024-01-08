@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
-import JournalTile from "./JournalTile";
-import ResourcesTile from "./ResourcesTile";
-import MeditationTile from "./MeditationTile";
+import JournalTile from "../Tiles/JournalTile";
+import ResourcesTile from "../Tiles/ResourcesTile";
+import MeditationTile from "../Tiles/MeditationTile";
 
 import "./Homepage.css";
 
@@ -36,7 +36,7 @@ function Homepage() {
         <h1 className="mb-4 font-weight-bold">MindfulMoment</h1>
         <p className="lead">
           Welcome to MindfulMoment, where every moment is an oppertunity for
-          mindful rejuvenation.
+          mindful rejuvenation. 
         </p>
       </div>
       <div className="tiles-container">

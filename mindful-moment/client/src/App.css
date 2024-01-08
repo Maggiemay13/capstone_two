@@ -1,11 +1,4 @@
-* {
-  background-color: #f5f5f5;
-}
-
 .app {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   margin: 0 auto;
   text-align: center; /* Center-align the title */
 }
-
-/* #e0e0e0 */
